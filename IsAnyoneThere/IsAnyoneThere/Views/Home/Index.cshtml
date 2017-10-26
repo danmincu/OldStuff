@@ -1,0 +1,128 @@
+﻿<script src="~/Scripts/d3.v3.min.js"></script>
+<script src="~/Scripts/cola.min.js"></script>
+<script>
+
+    var width = 1400,
+        height = 950;
+
+    var color = d3.scale.category20();
+
+    var cola = cola.d3adaptor()
+        .size([width, height]);
+
+    var cola1 = d3.layout.force()
+    .charge(-160)
+    .linkDistance(160)
+    .size([width, height]);
+
+    var svg = d3.select("#chart").append("svg")
+        .attr("width", width)
+        .attr("height", height);
+
+    svg.append('rect')
+       .attr('class', 'background')
+       .attr('width', "100%")
+       .attr('height', "100%")
+        .style("fill", "transparent")
+       .call(d3.behavior.zoom().on("zoom", redraw));
+
+    var vis = svg
+        .append('g');
+
+    function redraw() {
+        //  if (nodeMouseDown) return;
+        vis.attr("transform", "translate(" + d3.event.translate + ")" + " scale(" + d3.event.scale + ")");
+    }
+
+    d3.json("/GetGraphData", function (error, graph) {
+
+    cola
+            .nodes(graph.nodes)
+            .links(graph.links)
+            .jaccardLinkLengths(80, 0.7)
+          //  .symmetricDiffLinkLengths(15)
+          //  .avoidOverlaps(true)
+            .start(30);
+
+    var link = vis.selectAll(".link")
+            .data(graph.links)
+          .enter().append("line")
+            .attr("class", "link")
+            .style("stroke-width", function (d) { return Math.sqrt(d.value); });
+
+    // Create the groups under svg
+    var gnodes = vis.selectAll('g.gnode')
+          .data(graph.nodes)
+          .enter()
+          .append('g')
+          .classed('gnode', true);
+
+        // Add one circle in each group
+        var node = gnodes.append("circle")
+          .attr("class", "node")
+          .attr("r", function (d) { if (d.isSystem) return 20; if (d.group == 3) return 0; return 7;})
+          .style("fill", function(d) { return color(d.group); })
+          .call(cola.drag);
+
+
+        var node1 = gnodes.append("rect")
+         .attr("class", "node")
+         .attr("x", function (d) { if (d.group == 3) return -15; return 0; } )
+         .attr("y", function (d) { if (d.group == 3) return -15; return 0; })
+         .attr("width", function (d) { if (d.group == 3) return 30; return 0; })
+         .attr("height", function (d) { if (d.group == 3) return 30; return 0; })
+         .style("fill", function (d) { return color(d.group + 2); })
+         .call(cola.drag);
+
+        node.on("click", click);
+        function click(d) {
+            //only for windows machines (group == 1)
+            if (d.group == 1)
+            {
+                console.log(d.name + '.' + d.domain);
+                downloadURI('/IsAnyoneThere/GetRDPConnection?domainName=' + d.domain + '&IpAddress=' + d.ipaddress, "file")
+            }
+        }
+
+        // Append the labels to each group
+        var labels = gnodes.append("text")
+            .attr("class","textLabel")
+          .style("font-size", function (d) { return d.isSystem ? "16px" : "10px"; })
+          .style("font-weight", function (d) { return d.isSystem || d.group == 3? "bold" : ""; })
+          .style("fill","black")
+
+          .text(function (d) { return d.name; }).attr("pointer-events", "none");
+
+        cola.on("tick", function () {
+            // Update the links
+            link.attr("x1", function (d) { return d.source.x; })
+              .attr("y1", function (d) { return d.source.y; })
+              .attr("x2", function (d) { return d.target.x; })
+              .attr("y2", function (d) { return d.target.y; });
+
+            // Translate the groups
+            gnodes.attr("transform", function (d) {
+                return 'translate(' + [d.x, d.y] + ')';
+            });
+        });
+
+    });
+
+    function downloadURI(uri, name) {
+        var link = document.createElement("a");
+        link.download = name;
+        link.href = uri;
+        link.click();
+    }
+
+</script>
+
+@*<div class="jumbotron">
+
+
+
+
+    </div>
+    <div class="row">
+
+    </div>*@

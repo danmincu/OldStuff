@@ -1,0 +1,39 @@
+
+
+----------------------------------------------------------------------------------
+RENT RECEIPT NO. 1
+Date = September 1st,2016 
+Property address = #1301 - 234 Rideau Street, Ottawa, K1N 0A9, ON
+Landlord name: Dan Mincu
+Payer name: Amr Mahmoud & Mohamed Mahmoud
+Amount: $1950
+For the period: 9/2016
+----------------------------------------------------------------------------------
+
+
+
+
+----------------------------------------------------------------------------------
+RENT RECEIPT NO. 2
+Date = October 1st,2016 
+Property address = #1301 - 234 Rideau Street, Ottawa, K1N 0A9, ON
+Landlord name: Dan Mincu
+Payer name: Amr Mahmoud & Mohamed Mahmoud
+Amount: $1950
+For the period: 10/2016
+----------------------------------------------------------------------------------
+
+
+
+
+----------------------------------------------------------------------------------
+RENT RECEIPT NO. 3
+Date = November 1st,2016 
+Property address = #1301 - 234 Rideau Street, Ottawa, K1N 0A9, ON
+Landlord name: Dan Mincu
+Payer name: Amr Mahmoud & Mohamed Mahmoud
+Amount: $1950
+For the period: 11/2016
+----------------------------------------------------------------------------------
+
+

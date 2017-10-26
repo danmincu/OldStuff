@@ -1,0 +1,14 @@
+﻿<Window x:Class="TestInMemorySorlLike.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <StackPanel>
+        <Button Click="Button_Click">Search</Button>
+        <TextBox x:Name="resultText"></TextBox>
+        <TextBox x:Name="logText">
+                
+        </TextBox>
+        </StackPanel>
+    </Grid>
+</Window>

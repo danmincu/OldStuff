@@ -1,0 +1,33 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+@model MvcUploadFile.Controllers.UploadFileModel
+
+<script src="~/Scripts/jquery-1.8.2.js"></script>
+<script src="@Url.Content("~/Scripts/jquery.validate.min.js")" type="text/javascript"></script>
+<script src="@Url.Content("~/Scripts/jquery.validate.unobtrusive.min.js")" type="text/javascript"></script>
+<script src="~/Scripts/validation.js" type="text/javascript"></script>
+
+<h2>Photo Upload Index</h2>
+
+<form action="/PhotoUpload/Upload" method="post" enctype="multipart/form-data">
+
+    <label for="photo">Photo:</label>
+    <input type="file" name="photo" id="photo" />
+
+    <input type="submit" value="Upload" />
+</form>
+
+<form action="/PhotoUpload/MultipleUpload" method="post" enctype="multipart/form-data">
+    <label for="photo">Photo:</label>
+    <input type="file" name="files" multiple="multiple" id="files_0" />
+    <input type="file" name="files" id="files_1" />
+    <input type="file" name="files" id="files_2" />
+
+    <input type="submit" value="Multiple Upload" />
+</form>
+
+
+
+

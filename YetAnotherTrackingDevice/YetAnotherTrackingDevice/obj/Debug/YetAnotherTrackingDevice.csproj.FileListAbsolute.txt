@@ -1,0 +1,160 @@
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\roslyn\csc.exe
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\roslyn\Microsoft.CodeAnalysis.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\roslyn\Microsoft.CSharp.Core.targets
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\roslyn\System.Collections.Immutable.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\roslyn\System.Reflection.Metadata.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\roslyn\vbc.exe
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\roslyn\VBCSCompiler.exe
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\roslyn\VBCSCompiler.exe.config
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\YetAnotherTrackingDevice.dll.config
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\YetAnotherTrackingDevice.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\YetAnotherTrackingDevice.pdb
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Antlr3.Runtime.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\EntityFramework.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\EntityFramework.SqlServer.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.AspNet.Identity.Core.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.AspNet.Identity.Owin.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Owin.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Owin.Host.SystemWeb.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Owin.Security.Cookies.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Owin.Security.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Owin.Security.Facebook.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Owin.Security.Google.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Owin.Security.OAuth.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Owin.Security.Twitter.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Web.Infrastructure.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Newtonsoft.Json.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Owin.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Net.Http.Formatting.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.Helpers.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.Http.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.Http.Owin.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.Http.WebHost.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.Mvc.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.Optimization.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.Razor.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.WebPages.Deployment.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.WebPages.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.WebPages.Razor.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\WebGrease.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Newtonsoft.Json.xml
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Net.Http.Formatting.xml
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.Helpers.xml
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.Http.xml
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.Http.WebHost.xml
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.Mvc.xml
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.Optimization.xml
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.Razor.xml
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.WebPages.xml
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.WebPages.Deployment.xml
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.WebPages.Razor.xml
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Antlr3.Runtime.pdb
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\EntityFramework.xml
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\EntityFramework.SqlServer.xml
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.AspNet.Identity.Core.xml
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.AspNet.Identity.Owin.xml
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Owin.xml
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Owin.Host.SystemWeb.xml
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Owin.Security.xml
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Owin.Security.Facebook.xml
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Owin.Security.Cookies.xml
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Owin.Security.OAuth.xml
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Owin.Security.Google.xml
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Owin.Security.Twitter.xml
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.Http.Owin.xml
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\obj\Debug\YetAnotherTrackingDevice.csprojResolveAssemblyReference.cache
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\obj\Debug\YetAnotherTrackingDevice.dll
+v:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\obj\Debug\YetAnotherTrackingDevice.pdb
+V:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.Cors.dll
+V:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.Http.Cors.dll
+V:\TFS\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.Http.Cors.xml
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\roslyn\csc.exe
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\roslyn\Microsoft.CodeAnalysis.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\roslyn\Microsoft.CSharp.Core.targets
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\roslyn\System.Collections.Immutable.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\roslyn\System.Reflection.Metadata.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\roslyn\vbc.exe
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\roslyn\VBCSCompiler.exe
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\roslyn\VBCSCompiler.exe.config
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\YetAnotherTrackingDevice.dll.config
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\YetAnotherTrackingDevice.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\YetAnotherTrackingDevice.pdb
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Antlr3.Runtime.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\EntityFramework.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\EntityFramework.SqlServer.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.AspNet.Identity.Core.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.AspNet.Identity.Owin.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Owin.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Owin.Host.SystemWeb.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Owin.Security.Cookies.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Owin.Security.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Owin.Security.Facebook.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Owin.Security.Google.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Owin.Security.OAuth.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Owin.Security.Twitter.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Web.Infrastructure.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Newtonsoft.Json.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Owin.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Net.Http.Formatting.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.Cors.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.Helpers.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.Http.Cors.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.Http.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.Http.Owin.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.Http.WebHost.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.Mvc.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.Optimization.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.Razor.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.WebPages.Deployment.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.WebPages.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.WebPages.Razor.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\WebGrease.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.Http.Cors.xml
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Newtonsoft.Json.xml
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Net.Http.Formatting.xml
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.Helpers.xml
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.Http.xml
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.Http.WebHost.xml
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.Mvc.xml
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.Optimization.xml
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.Razor.xml
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.WebPages.xml
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.WebPages.Deployment.xml
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.WebPages.Razor.xml
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Antlr3.Runtime.pdb
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\EntityFramework.xml
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\EntityFramework.SqlServer.xml
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.AspNet.Identity.Core.xml
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.AspNet.Identity.Owin.xml
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Owin.xml
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Owin.Host.SystemWeb.xml
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Owin.Security.xml
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Owin.Security.Facebook.xml
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Owin.Security.Cookies.xml
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Owin.Security.OAuth.xml
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Owin.Security.Google.xml
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Owin.Security.Twitter.xml
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\bin\System.Web.Http.Owin.xml
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\obj\Debug\YetAnotherTrackingDevice.csprojResolveAssemblyReference.cache
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\obj\Debug\YetAnotherTrackingDevice.dll
+V:\TFS\Experiments II\YetAnotherTrackingDevice\YetAnotherTrackingDevice\obj\Debug\YetAnotherTrackingDevice.pdb

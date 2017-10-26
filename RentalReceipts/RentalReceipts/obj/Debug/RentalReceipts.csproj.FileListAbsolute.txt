@@ -1,0 +1,12 @@
+E:\TFS\Experiments\RentalReceipts\RentalReceipts\bin\Debug\RentalReceipts.exe.config
+E:\TFS\Experiments\RentalReceipts\RentalReceipts\bin\Debug\RentalReceipts.exe
+E:\TFS\Experiments\RentalReceipts\RentalReceipts\bin\Debug\RentalReceipts.pdb
+E:\TFS\Experiments\RentalReceipts\RentalReceipts\obj\Debug\RentalReceipts.csprojResolveAssemblyReference.cache
+E:\TFS\Experiments\RentalReceipts\RentalReceipts\obj\Debug\RentalReceipts.exe
+E:\TFS\Experiments\RentalReceipts\RentalReceipts\obj\Debug\RentalReceipts.pdb
+D:\TFS\Experiments\RentalReceipts\RentalReceipts\bin\Debug\RentalReceipts.exe.config
+D:\TFS\Experiments\RentalReceipts\RentalReceipts\obj\Debug\RentalReceipts.exe
+D:\TFS\Experiments\RentalReceipts\RentalReceipts\obj\Debug\RentalReceipts.pdb
+D:\TFS\Experiments\RentalReceipts\RentalReceipts\bin\Debug\RentalReceipts.exe
+D:\TFS\Experiments\RentalReceipts\RentalReceipts\bin\Debug\RentalReceipts.pdb
+D:\TFS\Experiments\RentalReceipts\RentalReceipts\obj\Debug\RentalReceipts.csprojResolveAssemblyReference.cache

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:padding="50px"
+            android:text="ECG monitor v0.01 alpha"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            />
+    <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:padding="50px"
+            android:text="Carleton University - Group 31"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            />
+    <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:padding="50px"
+            android:text="Mensur Pajaziti"
+            android:textAppearance="?android:attr/textAppearanceMedium"/>
+
+    <ImageView android:layout_width="160dp" android:layout_height="130dp"
+      android:src="@drawable/heartbeat" android:layout_gravity="center"/>
+
+</LinearLayout>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@android:color/holo_blue_dark">
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="PatientID"
+            android:paddingLeft="@dimen/horizontal_page_margin"
+            android:id="@+id/textView"/>
+    <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/horizontal_page_margin"
+            android:id="@+id/editPatientName" android:layout_gravity="center_horizontal"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/horizontal_page_margin"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Activity status"
+            android:id="@+id/textView2"/>
+
+    <RadioGroup
+            android:id="@+id/radioGroupStatus"
+            android:paddingLeft="@dimen/horizontal_page_margin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_alignParentLeft="true"
+            android:layout_above="@+id/fbplacename" >
+
+        <RadioButton
+                android:id="@+id/radio0"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:text="Rest" />
+
+        <RadioButton
+                android:id="@+id/radio1"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:text="Walk" />
+
+        <RadioButton
+                android:id="@+id/radio2"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:text="Run" />
+    </RadioGroup>
+
+    <Button android:layout_height="130px"
+            android:layout_width="fill_parent"
+            android:text="Authenticate Dropbox"
+
+            android:id="@+id/auth_button"/>
+    <!--android:onClick="authButtonClick"-->
+
+
+</LinearLayout>
